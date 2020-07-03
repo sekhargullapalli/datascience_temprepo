@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Cuprum&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Assistant&display=swap');
+
+.maincontainer{    
+    
+    scroll-behavior: auto;
+    min-height: 100vh;
+}
+.sitetitle {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 43px;
+    margin-top: 20px;
+    font-weight: bolder;
+    margin-bottom: 25px;
+}
+.sitetext{
+    font-family: 'Cuprum', sans-serif;
+    font-size: 22px;    
+    margin-bottom: 50px;
+}
+.sitelink{
+    font-family: 'Cuprum', sans-serif;
+    font-size: 22px;    
+    margin-bottom: 25px;
+}
